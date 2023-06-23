@@ -7,3 +7,5 @@
 ## Extensions
 
 - Ionic Snippets
+- Reactjs code snippets
+- Prettier
