@@ -1,0 +1,7 @@
+{
+  "name": "GES_Big_Times_Projects",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
